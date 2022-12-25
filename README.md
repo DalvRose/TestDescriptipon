@@ -1,5 +1,5 @@
 # TestDescriptipon
-<img src="https://snapkit.github.io/SnapKit/images/banner.jpg" alt="" />
+<img src="https://ibb.co/R01tSkG" alt="" />
 
 SnapKit is a DSL to make Auto Layout easy on both iOS and OS X.
 
